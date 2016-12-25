@@ -15,7 +15,7 @@
             "key": "apiKey",
             "value": "",
             "label": "apiKey",
-            "help": "Your MOjo Helpdesk API key can be found in your help desk user profile.",
+            "help": "Your Mojo Helpdesk API key can be found in your help desk user profile.",
             "required": true,
             "order": 1
           }
