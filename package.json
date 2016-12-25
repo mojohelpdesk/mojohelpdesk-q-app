@@ -4,7 +4,7 @@
     "longDescription": "Mojo Helpdesk ticket tracking track requests till they get down.",
     "version": "1.0",    
     "isSingleton": false,
-    "iconUrl": "https://www.mojohelpdesk.com/images/mojologo.png",
+    "iconUrl": "https://www.mojohelpdesk.com/images/mojo-star.png",
     "imageUrl": "",
     "appUrl":"https://www.mojohelpdesk.com",
     "authorName": "supercobra",
