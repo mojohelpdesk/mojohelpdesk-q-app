@@ -1,7 +1,7 @@
 { 
     "name": "Mojo Helpdesk",
     "shortDescription": "Q app for Mojo Helpdesk ticket tracking service",
-    "longDescription": "Mojo Helpdesk ticket tracking track requests till they get down.",
+    "longDescription": "Mojo Helpdesk ticket tracking track requests untill they get done.",
     "version": "1.0",    
     "isSingleton": false,
     "iconUrl": "https://www.mojohelpdesk.com/images/mojo-star.png",
