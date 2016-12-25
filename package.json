@@ -1,0 +1,23 @@
+{ 
+    "name": "Mojo Helpdesk",
+    "shortDescription": "Q app for Mojo Helpdesk ticket tracking service",
+    "longDescription": "Mojo Helpdesk ticket tracking track requests till they get down.",
+    "version": "1.0",    
+    "isSingleton": false,
+    "iconUrl": "https://www.mojohelpdesk.com/images/mojologo.png",
+    "imageUrl": "",
+    "appUrl":"https://www.mojohelpdesk.com",
+    "authorName": "supercobra",
+    "authorUrl": "https://twitter.com/supercobra",
+    "questions": [
+          {
+            "controlType": "textbox",
+            "key": "apiKey",
+            "value": "",
+            "label": "apiKey",
+            "help": "Your MOjo Helpdesk API key can be found in your help desk user profile.",
+            "required": true,
+            "order": 1
+          }
+        ]
+}
