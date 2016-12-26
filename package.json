@@ -34,6 +34,6 @@
 	}, {
 		"name": "Mojo New Ticket",
 		"description": "Triggers when a new and unassigned ticket is created in your Help desk.",
-		"version": "1.0",
+		"version": "1.0"
 	}]
 }
