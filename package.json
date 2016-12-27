@@ -1,27 +1,25 @@
 {
-  "name": "Mojo Helpdesk",
-  "shortDescription": "Q app for Mojo Helpdesk ticket tracking service",
-  "longDescription": "Mojo Helpdesk ticket tracking track requests untill they get done.",
-  "version": "1.0",
-  "isSingleton": false,
-  "iconUrl": "https://www.mojohelpdesk.com/images/mojo-star.png",
-  "imageUrl": "",
-  "appUrl": "https://www.mojohelpdesk.com",
-  "authorName": "supercobra",
-  "authorUrl": "https://twitter.com/supercobra",
-  "questions": [
-    {
-      "controlType": "textbox",
-      "key": "apiKey",
-      "value": "",
-      "label": "apiKey",
-      "help": "Your Mojo Helpdesk API key can be found in your help desk user profile.",
-      "required": true,
-      "order": 1
-    }
-  ],
-  "triggerPackages": [
-    { "filename": "trigger-mojo-number.json"},
-    { "filename": "trigger-new-ticket.json"}
-  ]
+	"name": "Mojo Helpdesk",
+	"shortDescription": "Q app for Mojo Helpdesk ticket tracking service",
+	"longDescription": "Mojo Helpdesk ticket tracking track requests untill they get done.",
+	"version": "1.0",
+	"isSingleton": false,
+	"iconUrl": "https://www.mojohelpdesk.com/images/mojo-star.png",
+	"imageUrl": "",
+	"appUrl": "https://www.mojohelpdesk.com",
+	"authorName": "supercobra",
+	"authorUrl": "https://twitter.com/supercobra",
+	"questions": [{
+		"controlType": "textbox",
+		"key": "apiKey",
+		"value": "",
+		"label": "apiKey",
+		"help": "Your Mojo Helpdesk API key can be found in your help desk user profile.",
+		"required": true,
+		"order": 1
+	}],
+	"triggerPackages": [
+	  "trigger-mojo-number.json",
+		"trigger-new-ticket.json"
+	]
 }
