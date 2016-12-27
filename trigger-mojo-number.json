@@ -1,0 +1,17 @@
+ {
+      "name": "Mojo Number",
+      "description": "Triggers when your Mojo # is above a certain level",
+      "version": "1.0",
+      "changeLog": "Initial release",
+      "questions": [
+        {
+          "controlType": "textbox",
+          "key": "mojoLevel",
+          "value": "80",
+          "label": "Triggers when your Mojo # is greater than",
+          "help": "This Mojo Helpdesk trigger will fire is your Mojo # is above the number you enter",
+          "required": true,
+          "order": 1
+        }
+      ]
+    }
