@@ -1,0 +1,7 @@
+{
+      "name": "Trigger for new ticket in Mojo Helpdesk",
+      "description": "Triggers when a new ticket is created",
+      "version": "1.0",
+      "changeLog": "Initial release",
+      "questions": []
+    }
