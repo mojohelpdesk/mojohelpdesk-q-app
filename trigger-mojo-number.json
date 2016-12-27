@@ -1,6 +1,7 @@
  {
       "name": "Mojo Number",
-      "description": "Triggers when your Mojo # is above a certain level",
+      "shortDescription": "Get an alert when your Mojo # is above a certain value",
+      "longDescription": "Triggers when your Mojo # is above a certain level",
       "version": "1.0",
       "changeLog": "Initial release",
       "questions": [
