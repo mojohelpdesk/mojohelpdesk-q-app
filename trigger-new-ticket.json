@@ -1,6 +1,7 @@
 {
-      "name": "Trigger for new ticket in Mojo Helpdesk",
-      "description": "Triggers when a new ticket is created",
+      "name": "Mojo new ticket => blink blink",
+      "shortDescription": "Get an alert when a Mojo Helpdesk ticket is created",
+      "longDescription": "",
       "version": "1.0",
       "changeLog": "Initial release",
       "questions": []
