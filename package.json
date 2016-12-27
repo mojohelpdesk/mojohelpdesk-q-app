@@ -25,6 +25,7 @@
       "name": "Mojo Number",
       "description": "Triggers when your Mojo # is above a certain level",
       "version": "1.0",
+      "scriptName": "mojo-number.js",
       "questions": [
         {
           "controlType": "textbox",
@@ -39,6 +40,7 @@
     },
     {
       "name": "Mojo New Ticket",
+      "scriptName": "mojo-new-ticket.js",
       "description": "Triggers when a new and unassigned ticket is created in your Help desk.",
       "version": "1.0"
     }
