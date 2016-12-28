@@ -20,6 +20,6 @@
 	}],
 	"triggerPackages": [
 	  "trigger-mojo-number.json",
-		"trigger-new-ticket.json"
+	  "trigger-new-ticket.json"
 	]
 }
