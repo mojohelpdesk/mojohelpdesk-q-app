@@ -19,7 +19,7 @@
 		"order": 1
 	}],
 	"triggerPackages": [
-	  "trigger-mojo-number.json",
-	  "trigger-new-ticket.json"
+	  "trigger-mojo-number",
+	  "trigger-new-ticket"
 	]
 }
