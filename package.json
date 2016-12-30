@@ -1,5 +1,6 @@
 {
-	"name": "Mojo Helpdesk",
+	"name": "Q app for Mojo Helpdesk",
+	"officialProduct": "Mojo Helpdesk",
 	"shortDescription": "Q app for Mojo Helpdesk ticket tracking service",
 	"longDescription": "Mojo Helpdesk ticket tracking track requests untill they get done.",
 	"version": "1.0",
