@@ -10,6 +10,14 @@
 	"appUrl": "https://www.mojohelpdesk.com",
 	"authorName": "supercobra",
 	"authorUrl": "https://twitter.com/supercobra",
+	"authentication": {
+		"oauth2":{
+			"clientId": "abc",
+			"url_auth": "https://www.monsite.com/oauth/auth",
+			"url_token": "https://www.monsite.com/oauth/token",
+			"refresh_token": true
+		}
+	}
 	"questions": [{
 		"controlType": "textbox",
 		"key": "apiKey",
