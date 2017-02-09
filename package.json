@@ -17,7 +17,7 @@
 			"url_token": "https://www.monsite.com/oauth/token",
 			"refresh_token": true
 		}
-	}
+	},
 	"questions": [{
 		"controlType": "textbox",
 		"key": "apiKey",
