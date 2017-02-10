@@ -13,7 +13,7 @@
 	"authentication": 
 		{
 			"method": "oauth2",
-			"clientId": "abc",
+			"client_id": "abc",
 			"url_auth": "https://www.monsite.com/oauth/auth",
 			"url_token": "https://www.monsite.com/oauth/token",
 			"refresh_token": true
